@@ -3,6 +3,8 @@ title: EYE OF THE BOULDER, THE RUNES OF THE MYTH DRAINER
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

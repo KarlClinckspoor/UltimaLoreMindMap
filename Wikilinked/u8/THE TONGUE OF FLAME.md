@@ -3,6 +3,8 @@ title: THE TONGUE OF FLAME
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

@@ -3,6 +3,8 @@ title: GOLD VALUABLE COMMODITY OR WORTHLESS TRASH
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 [[By]] [[Okapi]] the [[Elder]]  

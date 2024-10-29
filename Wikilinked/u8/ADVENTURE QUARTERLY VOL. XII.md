@@ -3,6 +3,8 @@ title: ADVENTURE QUARTERLY VOL. XII
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

@@ -3,6 +3,8 @@ title: JOURNEYS THROUGH HELL
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 This journal belongs to [[Robin]] [[Dudley]]  

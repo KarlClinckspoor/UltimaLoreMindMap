@@ -3,6 +3,8 @@ title: THE CHEESY BOOK
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

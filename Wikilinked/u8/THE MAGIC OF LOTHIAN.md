@@ -3,6 +3,8 @@ title: THE MAGIC OF LOTHIAN
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

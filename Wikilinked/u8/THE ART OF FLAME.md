@@ -3,6 +3,8 @@ title: THE ART OF FLAME
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Maedron]], [[First]] [[Acolyte]] of the [[Cabal]]  

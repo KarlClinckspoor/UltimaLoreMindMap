@@ -3,6 +3,8 @@ title: THE HISTORY OF NECROMANCY
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Galious]]  

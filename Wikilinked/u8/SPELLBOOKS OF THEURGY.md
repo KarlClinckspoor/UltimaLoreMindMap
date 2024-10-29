@@ -3,6 +3,8 @@ title: SPELLBOOKS OF THEURGY
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

@@ -3,6 +3,8 @@ title: SAYINGS OF THE GUARDIAN
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

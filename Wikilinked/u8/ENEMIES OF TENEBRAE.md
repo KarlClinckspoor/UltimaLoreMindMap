@@ -3,6 +3,8 @@ title: ENEMIES OF TENEBRAE
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 compiled by The [[Royal]] [[Seneschal]], [[His]] [[Eminence]], [[Salkind]]  

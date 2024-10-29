@@ -3,6 +3,8 @@ title: STORIES TO MAKE CHILDREN SLEEP
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Brother]] [[Grim]]  

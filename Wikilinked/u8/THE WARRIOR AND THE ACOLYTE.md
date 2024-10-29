@@ -3,6 +3,8 @@ title: THE WARRIOR AND THE ACOLYTE
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

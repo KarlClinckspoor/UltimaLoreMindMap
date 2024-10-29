@@ -3,6 +3,8 @@ title: BROGDAN'S HELPFUL GUIDE TO MUSHROOMS
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Brogdan]]  

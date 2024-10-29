@@ -3,6 +3,8 @@ title: THE MYTHOLOGY OF THE ZEALAN DEITIES
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Yradan]] the [[Scholar]]  

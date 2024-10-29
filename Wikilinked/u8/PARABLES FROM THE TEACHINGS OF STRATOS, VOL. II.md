@@ -3,6 +3,8 @@ title: PARABLES FROM THE TEACHINGS OF STRATOS, VOL. II
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

@@ -3,6 +3,8 @@ title: HONOR LOST
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Meltzars]] the [[Troll]]  

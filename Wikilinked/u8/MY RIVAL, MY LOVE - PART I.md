@@ -3,6 +3,8 @@ title: MY RIVAL, MY LOVE - PART I
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 A [[Shadowy]] [[Jester]] [[Book]], [[By]] [[Elise]]  

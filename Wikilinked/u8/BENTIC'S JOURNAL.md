@@ -3,6 +3,8 @@ title: BENTIC'S JOURNAL
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

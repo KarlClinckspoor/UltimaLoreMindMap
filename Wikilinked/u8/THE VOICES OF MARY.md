@@ -3,6 +3,8 @@ title: THE VOICES OF MARY
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 [[By]] [[Salem]]  

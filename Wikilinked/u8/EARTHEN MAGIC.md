@@ -3,6 +3,8 @@ title: EARTHEN MAGIC
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

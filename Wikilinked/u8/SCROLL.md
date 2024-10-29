@@ -3,6 +3,8 @@ title: SCROLL
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

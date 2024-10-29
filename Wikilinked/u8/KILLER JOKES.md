@@ -3,6 +3,8 @@ title: KILLER JOKES
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Trixter]]  

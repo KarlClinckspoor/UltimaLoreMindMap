@@ -3,6 +3,8 @@ title: DISPELLING MYTHS THE TRUTH ABOUT MAGIC
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

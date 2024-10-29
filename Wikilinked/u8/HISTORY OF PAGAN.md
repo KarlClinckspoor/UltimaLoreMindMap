@@ -3,6 +3,8 @@ title: HISTORY OF PAGAN
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 ([[False]] history)  

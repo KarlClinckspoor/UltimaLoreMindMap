@@ -3,6 +3,8 @@ title: THE BEAUTY OF RHIAN
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 [[By]] [[Toran]]  

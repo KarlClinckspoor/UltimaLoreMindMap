@@ -3,6 +3,8 @@ title: THE SAGA OF BONE CRUSHER
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

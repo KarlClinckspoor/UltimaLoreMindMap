@@ -3,6 +3,8 @@ title: FINDING THE WISDOM OF STRATOS
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

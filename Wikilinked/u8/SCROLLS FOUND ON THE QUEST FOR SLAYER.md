@@ -3,6 +3,8 @@ title: SCROLLS FOUND ON THE QUEST FOR SLAYER
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

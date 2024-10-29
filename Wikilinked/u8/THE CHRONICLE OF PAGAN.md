@@ -3,6 +3,8 @@ title: THE CHRONICLE OF PAGAN
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 A treatise on the [[Glorious]] [[History]] of this [[Foremost]] [[Society]]  

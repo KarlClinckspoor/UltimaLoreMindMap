@@ -3,6 +3,8 @@ title: THE OFFICIAL LOGBOOK OF CRIMES AND PUNISHMENTS
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 as recorded by [[Salkind]], the [[Scheneshal]] of [[Tenebrae]]  

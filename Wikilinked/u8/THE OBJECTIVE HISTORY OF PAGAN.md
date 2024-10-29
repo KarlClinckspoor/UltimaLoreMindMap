@@ -3,6 +3,8 @@ title: THE OBJECTIVE HISTORY OF PAGAN
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Mythran]]  
@@ -17,7 +19,7 @@ The followers of the new order became known as [[Pagans]]. [[As]] they were dire
   
 The few people who remained gathered on this isle, which they named after the island's volcano, [[Morgaelin]].[[It]] was a dismal time. The [[Titans]] began to fight among themselves for power. The wars between the few surviving [[Zealans]] and the [[Pagans]] continued. [[It]] was apparent that something had to be done, yet the question of what filled everyone's mind.[[After]] the defeat of the [[Destroyer]], the people were faced with a great many problems. The wars between the [[Pagans]] and the [[Zealans]] were costing many lives, while the bickering [[Titans]] seemed almost worse than the [[Destroyer]] threat they had so mightily eliminated.  
   
-[[Foremost]] on the minds of the [[Pagans]] was how to handle the [[Titans]] -- no simple task, I assure you. Knowing they could not best the four, nor wanting to since they considered the [[Titans]] their saviors, the elders elected instead to bargain with the elementals. They built four areas and made them sacred to the [[Titans]], one for each.A man named [[Moriens]] went to the [[Hall]] of the [[Mountain]] [[King]], the sanctuary of [[Lithos]]. [[He]] spoke to [[Lithos]] and begged for the quakes to end. [[Lithos]] agreed, but demanded that he receive a boon in exchange. [[He]] bade that the people would be given to him upon their deaths to serve him eternally in his [[[[Pit]] of [[Death]]]].  
+[[Foremost]] on the minds of the [[Pagans]] was how to handle the [[Titans]] -- no simple task, I assure you. Knowing they could not best the four, nor wanting to since they considered the [[Titans]] their saviors, the elders elected instead to bargain with the elementals. They built four areas and made them sacred to the [[Titans]], one for each.A man named [[Moriens]] went to the [[Hall]] of the [[Mountain]] [[King]], the sanctuary of [[Lithos]]. [[He]] spoke to [[Lithos]] and begged for the quakes to end. [[Lithos]] agreed, but demanded that he receive a boon in exchange. [[He]] bade that the people would be given to him upon their deaths to serve him eternally in his [[Pit]] of [[Death]].  
   
 The idea of burial was first introduced as a means for the people to be conveyed to [[Lithos]]. [[Both]] sides accepted the pact, with [[Moriens]] granted the magical powers necessary to honor the [[Pagan]] half of the bargain. [[But]] as [[Moriens]] began to feel the effects of aging, another pact was formed, whereby [[Moriens]] could pass on his abilities to subsequent [[Necromancers]] -- the term given to the mages responsible for sending the dead to [[Lithos]].  
   

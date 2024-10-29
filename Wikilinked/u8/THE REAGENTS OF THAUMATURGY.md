@@ -3,6 +3,8 @@ title: THE REAGENTS OF THAUMATURGY
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Mythran]]  

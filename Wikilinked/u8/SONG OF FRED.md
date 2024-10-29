@@ -3,6 +3,8 @@ title: SONG OF FRED
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

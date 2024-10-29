@@ -3,6 +3,8 @@ title: THE FINAL SUNLIGHT
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Nolandru]] the blind idiot of [[Tenebrae]]  

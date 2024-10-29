@@ -3,6 +3,8 @@ title: LETTER FROM MORDEA
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

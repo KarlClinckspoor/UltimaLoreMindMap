@@ -3,6 +3,8 @@ title: EXPEDITION JOURNAL, BOOK II
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

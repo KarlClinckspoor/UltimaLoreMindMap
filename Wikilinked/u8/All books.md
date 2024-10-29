@@ -3,6 +3,8 @@ title: All books
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 [[THE OFFICIAL LOGBOOK OF CRIMES AND PUNISHMENTS]]

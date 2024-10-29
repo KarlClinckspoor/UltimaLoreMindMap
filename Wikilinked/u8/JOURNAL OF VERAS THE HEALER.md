@@ -3,6 +3,8 @@ title: JOURNAL OF VERAS THE HEALER
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

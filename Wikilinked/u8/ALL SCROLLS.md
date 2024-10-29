@@ -3,6 +3,8 @@ title: ALL SCROLLS
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 [[By]] [[Mythran]]  

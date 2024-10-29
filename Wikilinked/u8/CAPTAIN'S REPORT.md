@@ -3,6 +3,8 @@ title: CAPTAIN'S REPORT
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
   

@@ -3,6 +3,8 @@ title: ON SORCEROUS WAYS
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 [[Corodin]] of [[Argentrock]]  

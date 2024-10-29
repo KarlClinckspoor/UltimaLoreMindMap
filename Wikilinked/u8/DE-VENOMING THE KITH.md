@@ -3,6 +3,8 @@ title: DE-VENOMING THE KITH
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 [[By]] [[Ioria]]  

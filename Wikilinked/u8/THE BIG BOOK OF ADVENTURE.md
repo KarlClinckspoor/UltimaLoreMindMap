@@ -3,6 +3,8 @@ title: THE BIG BOOK OF ADVENTURE
 tags:
 - book
 - u8
+- official
+- in-game
 ---
 
 by [[Sladek]]  
