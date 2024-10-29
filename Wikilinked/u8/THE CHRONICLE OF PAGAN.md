@@ -1,0 +1,12 @@
+---
+title: THE CHRONICLE OF PAGAN
+tags:
+- book
+- u8
+---
+
+A treatise on the [[Glorious]] [[History]] of this [[Foremost]] [[Society]]  
+  
+There is little in the world more refreshing to me than knowledge. I remember in my youth hearing tales of legendary times, unexplored places and fantastic beasts. I constantly pestered my parents and instructors with an endless number of questions. [[How]] does this work? Why did they act in such a manner? Where can I find these plants? [[My]] thirst for information was -- nay, still is -- insatiable. I spent hours at a time investigating all I could about my surroundings. Unfortunately, as I realized early in life, I lacked much in the way of physical prowess, making exploration difficult.  
+  
+[[Imagine]] my pleasure when I discovered that not only did life itself teach me things great and wonderous, but the myriad ancient tomes could offer nearly as much. [[It]] was then that I elected to dedicate this humble life to filling my mind and library with all the knowledge I could. Thus, I humbly add these words to the collection of wisdom that already fills the multitude of bookshelves throughout the land. I hope my work may someday imbue curiosity into the hearts of others.
