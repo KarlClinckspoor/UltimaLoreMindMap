@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE HISTORY OF NECROMANCY  
 by [[Galious]]  
   
 [[So]] that none may forget the origins of the [[Necromantic]] order I, [[Galious]] do now put pen to paper, and hereby record the acts of [[Moriens]] the [[Necromancer]]. [[Before]] the time of the [[Necromancers]], the [[Titans]] wreaked havoc upon the world as was their want. The people suffered and many were killed at the hands of the immortal [[Titans]]. The most terrible and powerful of all of the [[Titans]] was [[Lithos]], the [[Titan]] of [[Earth]], called The [[Mountain]] [[King]]. [[Lithos]] shook the world and destroyed all that man built. [[He]] ripped open the ground and into [[His]] maw the people did tumble and satisfy The [[Mountain]] [[King]]'s hunger. The people lived in darkness and were afraid of the [[Titans]]. Therefore, none dared to confront Them.  

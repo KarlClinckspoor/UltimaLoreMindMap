@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+SPELLBOOKS OF SORCERY  
   
 [[Extinguish]]  
 [[By]] use of this spell, the caster attempts to douse a [[Fire]]. When focused upon the [[Sorcerer]] himself all fires within a certain range will be quenched, otherwise it will douse the fire upon which it is specifically focused.  

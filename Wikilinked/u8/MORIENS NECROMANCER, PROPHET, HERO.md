@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+MORIENS: NECROMANCER, PROPHET, HERO  
   
 [[Let]] none doubt that no greater hero did ever walk the lands of [[Pagan]] than the [[Immortal]] [[Moriens]]. [[Moriens]] did earn the title of [[Immortal]] as he still walks at the right hand of the [[Mountain]] [[King]]. [[Dead]] in body but not in spirit, [[Moriens]] legacy of greatness and heroism will live on into eternity. [[Many]] young children who have not yet learned of [[Moriens]] true wonderment do often look with innocent, upturned eyes and ask with voices filled with awe of the great man of which they've heard their playmates speak. Then do the parents sit down with their children and tell them the story of the greatest of all magic users: The first [[Necromancer]].  
   

@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+BENTIC'S JOURNAL  
   
 [[In]] my investigations of the royal bloodline I have uncovered many facts---facts have lead me to more questions. [[Keldan]] the farmer, son of [[Treal]]. Forced to marry [[Lord]] [[Kean]]'s daughter, [[Celidia]]. Why would royalty want such a simple man? [[Keldan]] and [[Ariel]]... [[Did]] [[Celidia]] ever know? [[If]] so, when did she find out? [[And]] how? [[Ariel]] had a child, a son. [[Did]] [[Keldan]] send her away to protect them from [[Celidia]], or did [[Celidia]] order it?  
   

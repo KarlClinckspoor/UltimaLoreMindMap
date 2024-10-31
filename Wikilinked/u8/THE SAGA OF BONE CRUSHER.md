@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE SAGA OF BONE CRUSHER  
   
 [[And]] so it was in the early days of [[Pagan]] that the [[Titan]] of [[Earth]], [[Lithos]], declared that all who lived upon his lands should pay homage to him. With his mighty earthquakes, he demanded that the people of [[Tenebrae]] bow to him, lest he shake their houses down around them.'[[But]] mighty [[Lithos]],'said the [[Lord]] [[Elsmil]], the [[Tempest]], 'we are under the guidance of [[Hydros]]. [[From]] her we receive the rain for the crops and the fish for our table. We can not bow to you.' This greatly angered [[Lithos]] and to punish the people of [[Tenebrae]], he sent a great army of undead skeletons to slaughter them. [[Lord]] [[Elsmil]], went to [[Hydros]].  
   

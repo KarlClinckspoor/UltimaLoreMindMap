@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+JOURNAL OF VERAS THE HEALER  
   
 [[My]] dearest [[Prevan]], I regret to tell you that I will not be home from this visit as soon as I had thought. [[My]] healing services will be needed here for some time as a terrible thing has happened to this small village. Two nights ago, as I had just finished my evening rituals, I heard a horrible commotion from the town square. I ran out to see what the trouble was, only to find the town overrun by trolls. The trolls had come in search of their favorite meal, human children.  
   

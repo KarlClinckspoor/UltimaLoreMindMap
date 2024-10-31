@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE FINAL SUNLIGHT  
 by [[Nolandru]] the blind idiot of [[Tenebrae]]  
   
 The final moments of sunlight were glorious moments, ones we would have cherished had we known they were to be our last. The war against our very kindred seemed never ending, day after day of bloodshed. [[In]] their eyes burned the hatred of intolerance. [[And]] these flames kindled the fire of violence. [[After]] a while, it became easy to forget the faces of those you had slain -- a sister with one chop, an uncle with another. Yet still they came, outraged that we dared to listen to the voice of warning.  

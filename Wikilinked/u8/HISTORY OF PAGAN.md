@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+HISTORY OF PAGAN  
 ([[False]] history)  
   
 [[Long]] ago, before the time in which the [[Titans]] came to the world, there were people who were vile and unclean. These people called themselves [[Zealans]] and they worshipped their own emotions and therefore tried to make themselves as gods. Then came a man named [[Kalen]] who saw that such behaviour was false and an affront to nature. [[Kalen]] preached to the people that they should not set themselves above the natural forces who are eternal and more powerful than man.  

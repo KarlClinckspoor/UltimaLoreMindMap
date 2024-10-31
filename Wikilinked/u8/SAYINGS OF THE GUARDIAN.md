@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+SAYINGS OF THE GUARDIAN  
   
 I -really- do appreciate your plight, [[Avatar]].  
 [[Ah]], [[Avatar]], the thrill of conquest is so... invigorating.  

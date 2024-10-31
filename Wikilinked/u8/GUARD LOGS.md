@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+GUARD LOGS  
   
 [[Bloodwatch]]: [[Nothing]] to report.  
 [[Firstebb]]: [[Nothing]] to report.  

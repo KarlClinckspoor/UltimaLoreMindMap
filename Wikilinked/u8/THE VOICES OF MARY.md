@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE VOICES OF MARY  
 [[By]] [[Salem]]  
   
 I wake in the night and the rooms are all dead,  

@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE MYTHOLOGY OF THE ZEALAN DEITIES  
 by [[Yradan]] the [[Scholar]]  
   
 Throughout the ages our people have looked beyond themselves to find the answers to the many mysteries of life. Today we know that the [[Titans]], masters of the four elements, control our destinies and direct the many forces that affect our lives. [[However]], such was not always the case.  

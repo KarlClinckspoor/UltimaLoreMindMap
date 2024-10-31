@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+POTIONS  
   
 [[From]] my experiments I have found that potions act in the following manner:  
 [[Yellow]]: [[Heals]], but only in small measures.  

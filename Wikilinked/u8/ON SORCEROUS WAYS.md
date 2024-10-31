@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+ON SORCEROUS WAYS...  
 [[Corodin]] of [[Argentrock]]  
   
 [[Foreword]]: [[Sorcery]] is the magic of [[Fire]]. [[Destruction]] is the [[Sorcerer]]'s bailiwick. Being first and foremost an [[Adept]] [[Theurgist]] of the [[Order]] of [[Enlightenment]], I find it hard to reconcile this power with my training as a healer. [[However]], were it not for the [[Cabal]]'s efforts, our island would have long since perished beneath the ash and lava pouring from the volcano. [[Some]] of my [[Acolytes]] feel that having this power gives us an elevated status. I cannot agree. [[Our]] power gives us the ability to fulfill a duty to our people. No more, no less.  

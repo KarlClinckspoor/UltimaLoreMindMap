@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+MY RIVAL, MY LOVE - PART I  
 A [[Shadowy]] [[Jester]] [[Book]], [[By]] [[Elise]]  
   
 [[It]] all started when I met the one and only man who had the ability to make me question what I once regarded to be sound ideals. I never was a religious person; perhaps that was due to the fact that I was never an insecure person. I have always believed that people that are insecure turn to their gods for guidance, love, and protection. I never needed that. [[Never]], that is, until [[Alain]] walked into my life.  

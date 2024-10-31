@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+GOLD: VALUABLE COMMODITY OR WORTHLESS TRASH?  
 [[By]] [[Okapi]] the [[Elder]]  
   
 [[It]] is oft said that there is no other material as precious as gold. [[Perhaps]] one reason that we feel this way is that it gleams and shines like the sun that rises to greet us every morn. [[However]], this is not the only reason we value gold so much. [[Indeed]], there are several reasons other than its beauty that makes it so worthy of praise. [[Its]] malleability, conductivity and resistance to corrosion are among the chief reasons we adore this metal. [[One]] very reliable method of extracting this ore from the land is mining. This requires the digging of long, often deep and dangerous shafts within the land. This is often accompanied by the use of explosives that ease the difficulties associated with the removal process.  

@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+
 as recorded by [[Salkind]], the [[Scheneshal]] of [[Tenebrae]]  
 during the reign of her ladyship [[Mordea]].  
   

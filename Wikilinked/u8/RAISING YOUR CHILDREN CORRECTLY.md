@@ -7,5 +7,6 @@ tags:
 - in-game
 ---
 
+RAISING YOUR CHILDREN CORRECTLY  
   
 [[It]] is important to keep in mind [[Stratos]]' teachings while raising your child. When you are angry at some small transgression your child has committed, remember that [[Stratos]] says there are no bad children, merely high-spirited or rebellious ones. Sooner or later all children will return to their home. [[And]] they should always be welcomed back, for all children are, indeed, precious. [[As]] there are no bad children, then it follows that a child who performs an act with which you disagree should be taught the wrong of the action, rather than receive punishment. [[As]] [[Stratos]] says, spare the rod and speak with the child. [[An]] unhappy child, however, requires different care, for what are words when sadness fills the heart. [[Take]] time to offer comfort and soothing immediatly, for a sad child makes a sad world.

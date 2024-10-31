@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE CHRONICLE OF PAGAN  
 A treatise on the [[Glorious]] [[History]] of this [[Foremost]] [[Society]]  
   
 There is little in the world more refreshing to me than knowledge. I remember in my youth hearing tales of legendary times, unexplored places and fantastic beasts. I constantly pestered my parents and instructors with an endless number of questions. [[How]] does this work? Why did they act in such a manner? Where can I find these plants? [[My]] thirst for information was -- nay, still is -- insatiable. I spent hours at a time investigating all I could about my surroundings. Unfortunately, as I realized early in life, I lacked much in the way of physical prowess, making exploration difficult.  

@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+EAR OF ARRICORN: VOL. III  
 by [[Kram]]  
   
 The lone stranger slowly rode into the desolate village on the back of his mammoth, white hordax. [[As]] he dismounted his beast, he threw the leathery reins over the closest tie rod, then slowly strode to the double doors of the tavern.Though the tavern roared with the laughter of drunken herdsmen, the jovial spirit quickly flattened like fresh manure thrown against a wall. [[Everyone]] turned as the caped stranger entered the smoke filled hovel. The darkly robed individual motioned with two fingers for the stiffest grog. The tavern master quickly obeyed, pouring the thick brew with shaky hands.The women folk left, claiming they needed to visit the house of fecal waste.  

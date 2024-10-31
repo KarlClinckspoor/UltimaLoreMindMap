@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE BIG BOOK OF ADVENTURE  
 by [[Sladek]]  
   
 [[Recorded]] on these pages are tips I have found while on my adventures. Read well, fellow quester, for your life may well be saved by recalling these in your time of need.  

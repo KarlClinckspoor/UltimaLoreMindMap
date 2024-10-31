@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+SPELLBOOKS OF THAUMATURGY  
   
 [[Confusion]] [[Blast]] - [[In]] [[Quas]] [[Wis]]  
 With these words the caster releases a wave of etheric emanations that cause all opponents to forget not only the current combat in which they are involved, but also any hostile dispositions towards the caster. The necessary components are the spellbook and the following reagents: [[Eye]] of [[Newt]], [[Bat]] [[Wing]], [[Serpent]] [[Scale]], [[Obsidian]], and [[Brimstone]].  

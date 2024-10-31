@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+SPELLBOOKS OF THEURGY  
   
 The [[Spell]] of [[Divination]]  
 The divination spell is a most practical spell. [[It]] allows the caster to know his exact location, the time of day, the day of the week, and the current month. The [[Focus]] necessary for casting this spell resembles a sextant. The spell also has a vocal aspect. The words that must be uttered at the moment of casting are '[[In]] [[Wis]].'  

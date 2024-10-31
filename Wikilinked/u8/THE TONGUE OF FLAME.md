@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE TONGUE OF FLAME  
   
 This object, named by [[Corodin]], the first [[Master]] [[Sorcerer]], has been handed down from [[Master]] to [[Master]] since the [[Binding]] of [[Pyros]]. [[It]] is the key to the power of the [[Sorcerers]]. [[If]] you are reading this book then most likely you are now the [[Master]] [[Sorcerer]], having either outlived or killed the [[Master]]. [[As]] such, I admonish you to keep both this book and the [[Tongue]] always in a safe place, away from prying eyes. The [[Tongue]] was used in the [[Binding]] to house a portion of [[Pyros]]' being. This allows all [[Sorcerers]] to call upon [[His]] powers in the ways that we have defined as spells. The rituals involved are used to provide protection for the [[Sorcerer]] creating the enchantment.  
   

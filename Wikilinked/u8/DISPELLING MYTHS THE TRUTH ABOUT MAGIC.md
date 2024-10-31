@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+DISPELLING MYTHS: THE TRUTH ABOUT MAGIC  
   
 [[Many]] are the rumors of the magical and the supernatural which exist outside of the [[Titanic]] magic. [[Now]], of course any reasonable person knows that any such thing is nonsense. Any thinking person must know that the [[Titans]] are the only magic in the world. [[However]], in the interest of fairness, for any who may doubt that the True [[Magic]] is held only by the [[Titans]], I have investigated three well known reported cases of magical ocurrences that fall outside of the [[Titanic]] influence.  
   

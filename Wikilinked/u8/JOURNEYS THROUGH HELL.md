@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+JOURNEYS THROUGH HELL  
 This journal belongs to [[Robin]] [[Dudley]]  
   
 [[Day]] 1: [[Dear]] E- I have found my journey to be one of great suffering although I have only been at it such a short time.  

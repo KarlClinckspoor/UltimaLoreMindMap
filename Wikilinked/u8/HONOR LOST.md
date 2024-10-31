@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+HONOR LOST  
 by [[Meltzars]] the [[Troll]]  
   
 The state of my people leaves me distraught. [[Even]] the name [[Troll]] is an insult humans hurl at each other, while in my time the name [[Troll]] was noble and respected. What factors led my people down this path of twisted barbarisim I will endeavour to discover. Since I was laid low by the sleeping disease contracted in my studies of the arcane, there were no efforts to revive me, and now I see why. All trolls with any mystic skills are gone![[Indeed]] it seems that only the ignorant buffoons remain, and are breeding our society into mindless brutes.  

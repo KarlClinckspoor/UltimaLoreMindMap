@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE MAGIC OF LOTHIAN  
   
 [[My]] time above this ground draws nigh. [[My]] dearest lord, the [[Mountain]] [[King]] calls me, and I must go. [[Soon]] I shall shed this mortal coil and join [[Lithos]] for life ever lasting. Yet before I go I must fulfill my final charge as [[Necromancer]]. [[My]] final duty is this, my spell. The spell which shall by my addition to the magic of the [[Earthen]] [[Power]], may [[Lithos]] be praised. For time immorial, students of the power of [[Earth]] shall this spell learn.  
   

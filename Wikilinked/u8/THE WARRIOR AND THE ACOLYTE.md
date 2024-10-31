@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE WARRIOR AND THE ACOLYTE  
   
 [[Good]] reader, I wish to tell you a story I heard about a warrior named [[Yevaud]]. [[He]] was a mighty fighter and was never bested in battle. Challengers came from across the land and they all fell before him. [[One]] day an [[Acolyte]] of [[Stratos]] was healing the wounds [[Yevaud]] had inflicted upon a challenger. [[As]] the [[Acolyte]] worked, [[Yevaud]] approached. 'You there,' [[Yevaud]] said. 'You will surely agree that there is no one better than I.' The [[Acolyte]] looked up at the warrior. '[[That]] is not true.' 'What?!' roared the big man. 'This is one who is better than you,' the [[Acolyte]] said. 'Who?! Who is better than me?' he bellowed. '[[Meet]] me here tomorrow and I will make him known to you,' said the [[Acolyte]].  
   

@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+EYE OF THE BOULDER, THE RUNES OF THE MYTH DRAINER  
   
 [[My]] love, my life, my doom! I began my search for the [[Eye]] shortly after my nineteenth year, while still in training with the [[Necromancers]]. Had I known at that young age what would befall me upon the completion of my undertaking, I would have spent my days differently, seeking companionship over mystic power; warm love rather than cold stone. [[But]] my desire for the [[Eye]] was all consuming.  
   

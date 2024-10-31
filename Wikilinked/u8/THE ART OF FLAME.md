@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE ART OF FLAME  
 by [[Maedron]], [[First]] [[Acolyte]] of the [[Cabal]]  
   
 [[Fire]] is the crucible of [[Life]]. [[Before]] it, all impurities are burned away. All that remains is a pure, unclouded will. A [[Sorcerer]] should revel in this and know that power is his servant. The will of the [[Sorcerer]] is the crucible of the reagents. [[But]] I speak herein not of the reagents, but instead, of the foci of [[Sorcery]].  

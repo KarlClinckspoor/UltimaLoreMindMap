@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+SONG OF FRED  
   
 There once was a story 'bout a demon named [[Fred]]...  
 [[Poor]] demonic force barely kept his minions fed...  

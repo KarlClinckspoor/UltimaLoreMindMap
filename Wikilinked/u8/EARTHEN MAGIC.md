@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+EARTHEN MAGIC  
   
 [[Beware]] unto any who may read this tome: The power of the [[Mountain]] [[King]] is great, and the dread sovereign of all clay and [[Earth]] is to be feared and respected. Therefore, as you read the words of might contained within these pages, know that the power that the [[Mountain]] [[King]] will grant to you is great. Use the power that you learn here wisely and remember: The [[Mountain]] [[King]] can take from you anything that [[He]] has given you. [[Do]] not abuse that which you learn while in the service of mighty [[Lithos]].  
   

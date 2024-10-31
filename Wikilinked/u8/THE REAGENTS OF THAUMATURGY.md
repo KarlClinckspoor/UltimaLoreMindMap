@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+THE REAGENTS OF THAUMATURGY  
 by [[Mythran]]  
   
 [[Reading]] through the many tomes of [[Thaumaturgy]], the perceptive student is likely to notice something unusual about a few of the reagents. While a novice to any school of magic will find the names of most reagents unrecognizable, the reagents of [[Thaumaturgy]] are confusing for a simple reason. A universal collection of words and rituals must also have a universal set of material reagents, components that cannot be limited to a single dimension.Thus, the unusual reagents.  

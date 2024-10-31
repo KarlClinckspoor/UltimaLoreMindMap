@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+ADVENTURE QUARTERLY VOL. IX  
   
 [[Dear]] [[Adventurer]]! Within these pages lies your path to unimaginable wealth and power. All you must do to gain such is to read and learn of the strange and exotic places that hold the keys to your wildest dreams. Enter into a realm where money, power, and pleasure await you. All you must have to gain them is the courage and the heart for adventure!  
   

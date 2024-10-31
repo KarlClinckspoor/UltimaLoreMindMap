@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+BROGDAN'S HELPFUL GUIDE TO MUSHROOMS  
 by [[Brogdan]]  
   
 Though many forms of vegetation disappeared after our sun ceased its cycling and our world entered into a state of eternal twilight, many plants, especially mushrooms, have adjusted to the lower levels of sunlight. Mushrooms have prospered and have become the dominant form of vegetation on our landscape. These range from the man-sized [[Monster]] [[Brown]] [[Cap]] all the way down to the finger-sized yellow and red [[Silent]] [[Sleeper]]. [[Most]] mushrooms are edible. Mushrooms like the fist-sized [[Blue]] [[Bulgie]] and the [[Green]] [[Capper]] are delicious with any meal, though sometimes they may be confused by the less experienced for the blue and green form of [[Daemon]]'s [[Paw]] which can cause rashes, blisters, and general bladder distress.  

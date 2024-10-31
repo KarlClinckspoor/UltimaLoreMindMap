@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+DE-VENOMING THE KITH  
 [[By]] [[Ioria]]  
   
 [[Removing]] the venom sacs from a kith should only be done to an animal between the ages of four to six days. Sedate the kith by allowing it to inhale the vapors of boiling kalas leaves and mushroom spores. [[Do]] not breathe these vapors or intense headaches and dizzyness will occur. [[Once]] the animal is sedated, roll it over onto its back and locate the bony plate at the base of the mandible. Insert a wedge or pick into the seam at the base of this plate, and press firmly until the plate begins to slide. [[It]] will still be attached to the abdomen by several fiberous bands.  

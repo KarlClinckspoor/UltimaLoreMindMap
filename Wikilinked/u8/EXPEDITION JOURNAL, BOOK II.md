@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+EXPEDITION JOURNAL, BOOK II  
   
 [[Day]] [[Seventeen]]... [[It]]'s been about four days since [[Salem]] received the fatal blow, and some strange events have happened. Three children entered the camp before midnight, claiming to be childhood friends of his. When she saw them, [[Iane]] let out a fearsome scream and collapsed, and the little strangers made a hasty retreat into the night. [[How]] could children be childhood friends of a man in his late thirties?  
   

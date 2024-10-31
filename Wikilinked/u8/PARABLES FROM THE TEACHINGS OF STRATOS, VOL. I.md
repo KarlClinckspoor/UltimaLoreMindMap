@@ -7,6 +7,7 @@ tags:
 - in-game
 ---
 
+PARABLES FROM THE TEACHINGS OF STRATOS, VOL. I  
   
 The way of [[Stratos]] is the way of truth. There are none that can deny this. Above all, the follower of [[Stratos]] loves the way of truth and will seek it above all else in companions. [[Beware]] the way of lies and falsehoods. [[It]]'s path is broad and its lure is sweet. The way of truth is the harder road, its brambles will tear at your heart. You may feel you are ready for this hardship, but it will strike you close to your heart.  
   
