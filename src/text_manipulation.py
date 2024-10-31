@@ -5,7 +5,7 @@ from pathlib import Path
 # Function to replace words with wiki-style links
 def replace_with_wikilinks(content: str, words: set[str] | list[str]) -> str:
     for word in words:
-        content = re.sub(rf"(\b{re.escape(word)}\b)((?![^\[\]]*\])", f"[[{word}]]", content)
+        content = re.sub(rf"(\b{re.escape(word)}\b)(?![^\[\]]*\])", f"[[{word}]]", content)
     return content
 
 

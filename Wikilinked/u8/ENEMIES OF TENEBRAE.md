@@ -8,11 +8,11 @@ tags:
 ---
 
 ENEMIES OF TENEBRAE  
-compiled by The [[Royal]] [[Seneschal]], [[His]] [[Eminence]], [[Salkind]]  
+compiled by The Royal Seneschal, His Eminence, [[Salkind]]  
   
-The following is a list of those citizens and former citizens of [[Tenebrae]] who are suspected to be involved in dealings or activities that may be construed to be dangerous or otherwise damaging to the [[City]]/[[State]] of [[Tenebrae]].  
+The following is a list of those citizens and former citizens of [[Tenebrae]] who are suspected to be involved in dealings or activities that may be construed to be dangerous or otherwise damaging to the City/State of [[Tenebrae]].  
   
-[[Aramina]]  
+Aramina  
 [[Darion]]  
 [[Devon]]  
 [[Kilandra]]  
